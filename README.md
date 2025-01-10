@@ -19,8 +19,9 @@ http://real.mtak.hu/122602/1/Brassai%20Tihamer_UKDA_REAL.pdf
 https://nandland.com/lesson-1-what-is-an-fpga/
 
 
-#nagycim
-** vastag **
+#Projekt dokumentáció
+##Újrakonfigurálható digitális áramkörök
+** ADCS7476 nyomásmérő szenzor 16 bites A/D konverter **
 ##kisseb
 ### megkisseb
 ![svas](eleres)
