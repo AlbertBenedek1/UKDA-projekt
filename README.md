@@ -19,4 +19,15 @@ http://real.mtak.hu/122602/1/Brassai%20Tihamer_UKDA_REAL.pdf
 https://nandland.com/lesson-1-what-is-an-fpga/
 
 
+#nagycim
+** vastag **
+##kisseb
+### megkisseb
+![svas](eleres)
+<p align= "center"> abra 1 daf </p>
+``` vhdl
+ujsorba
+```
+
+
   
